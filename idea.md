@@ -362,9 +362,7 @@ const state = {
   radius: 2,
   seed: 1234567,
   rngCalls: 42, // replay/restore the RNG stream exactly
-  tiles: [
-    /* Tile[] */
-  ],
+  tiles: [/* Tile[] */],
   nextTileId: 37,
   score: 0,
   best: 0,
